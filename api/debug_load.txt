@@ -1,0 +1,45 @@
+=== TEST LOAD ===
+Time: 2025-10-21 19:55:46
+User ID: 17
+DB seconds: 90
+was_solved: 0
+game_lost: 0
+Board filled: no
+================
+
+=== TEST LOAD ===
+Time: 2025-10-21 19:55:57
+User ID: 17
+DB seconds: 90
+was_solved: 0
+game_lost: 0
+Board filled: no
+================
+
+=== TEST LOAD ===
+Time: 2025-10-21 20:03:27
+User ID: 17
+DB seconds: 90
+was_solved: 0
+game_lost: 0
+Board filled: no
+================
+
+=== TEST LOAD ===
+Time: 2025-10-21 20:04:17
+User ID: 17
+DB seconds: 90
+was_solved: 0
+game_lost: 0
+Board filled: no
+================
+
+=== TEST LOAD ===
+Time: 2025-10-21 20:04:35
+User ID: 17
+DB seconds: 90
+was_solved: 0
+game_lost: 0
+Board filled: no
+================
+
