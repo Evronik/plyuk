@@ -1,0 +1,1001 @@
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 199
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=199, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 199
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=209&_=1764680802572
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 209
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=209, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 209
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=205&_=1764680802572
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 205
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=205, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 205
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=208&_=1764680802577
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 208
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=208, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 208
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=202&_=1764680802580
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 202
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=202, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 202
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=205&_=1764680802589
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 205
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=205, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 205
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=203&_=1764680802590
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 203
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=203, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 203
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=204&_=1764680802598
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 204
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=204, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 204
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=201&_=1764680802600
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 201
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=201, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 201
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=207&_=1764680802603
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 207
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=207, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 207
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=200&_=1764680802604
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 200
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=200, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 200
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=206&_=1764680802606
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 206
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=206, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 206
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=210&_=1764680802606
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 210
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=210, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 210
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=203&_=1764680802610
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 203
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=203, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 203
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=209&_=1764680802609
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 209
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=209, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 209
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=206&_=1764680802621
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 206
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=206, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 206
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=204&_=1764680802621
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 204
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=204, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 204
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=205&_=1764680802629
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 205
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=205, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 205
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=202&_=1764680802632
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 202
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=202, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 202
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=208&_=1764680802638
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 208
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=208, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 208
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=201&_=1764680802639
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 201
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=201, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 201
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=207&_=1764680802640
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 207
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=207, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 207
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=211&_=1764680802642
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 211
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=211, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 211
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=204&_=1764680802643
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 204
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=204, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 204
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=210&_=1764680802644
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 210
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=210, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 210
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=207&_=1764680802652
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 207
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=207, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 207
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=205&_=1764680802653
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 205
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=205, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 205
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=206&_=1764680802660
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 206
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=206, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 206
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=203&_=1764680802663
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 203
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=203, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 203
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=209&_=1764680802670
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 209
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=209, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 209
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=202&_=1764680802671
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 202
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=202, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 202
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=208&_=1764680802673
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 208
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=208, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 208
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=212&_=1764680802674
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 212
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=212, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 212
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=205&_=1764680802675
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 205
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=205, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 205
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=211&_=1764680802677
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 211
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=211, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 211
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=208&_=1764680802683
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 208
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=208, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 208
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=206&_=1764680802684
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 206
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=206, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 206
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=207&_=1764680802693
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 207
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=207, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 207
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=204&_=1764680802694
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 204
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=204, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 204
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=210&_=1764680802703
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 210
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=210, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 210
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=203&_=1764680802704
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 203
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=203, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 203
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=213&_=1764680802711
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 213
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=213, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 213
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=209&_=1764680802709
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 209
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=209, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 209
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=212&_=1764680802713
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 212
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=212, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 212
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=206&_=1764680802712
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 206
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=206, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 206
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=209&_=1764680802719
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 209
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=209, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 209
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=207&_=1764680802720
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 207
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=207, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 207
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=208&_=1764680802724
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 208
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=208, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 208
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=205&_=1764680802725
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 205
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=205, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 205
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=211&_=1764680802748
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 211
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=211, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 211
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=188&_=1764680802749
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 188
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=188, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 188
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=210&_=1764680802751
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 210
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=210, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 210
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=204&_=1764680802749
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 204
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=204, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 204
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=210&_=1764680802756
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 210
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=210, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 210
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=208&_=1764680802756
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 208
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=208, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 208
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=213&_=1764680802753
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 213
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=213, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 213
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=207&_=1764680802755
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 207
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=207, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 207
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=209&_=1764680802765
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 209
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=209, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 209
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=206&_=1764680802766
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 206
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=206, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 206
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=212&_=1764680802783
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 212
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=212, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 212
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=189&_=1764680802787
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 189
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=189, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 189
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=211&_=1764680802788
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 211
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=211, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 211
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=205&_=1764680802790
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 205
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=205, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 205
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=211&_=1764680802791
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 211
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=211, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 211
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=209&_=1764680802792
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 209
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=209, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 209
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=208&_=1764680802794
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 208
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=208, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 208
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=188&_=1764680802793
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 188
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=188, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 188
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=210&_=1764680802803
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 210
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=210, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 210
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=207&_=1764680802803
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 207
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=207, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 207
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=213&_=1764680802816
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 213
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=213, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 213
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=190&_=1764680802820
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 190
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=190, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 190
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=212&_=1764680802821
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 212
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=212, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 212
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=206&_=1764680802849
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 206
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=206, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 206
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=212&_=1764680802851
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 212
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=212, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 212
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=210&_=1764680802853
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 210
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=210, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 210
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=209&_=1764680802854
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 209
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=209, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 209
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=189&_=1764680802854
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 189
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=189, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 189
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=211&_=1764680802855
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 211
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=211, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 211
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=188&_=1764680802857
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 188
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=188, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 188
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=191&_=1764680802859
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 191
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=191, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 191
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=208&_=1764680802856
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 208
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=208, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 208
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=213&_=1764680802860
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 213
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=213, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 213
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=207&_=1764680802882
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 207
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=207, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 207
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=213&_=1764680802883
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 213
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=213, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 213
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=211&_=1764680802884
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 211
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=211, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 211
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=210&_=1764680802887
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 210
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=210, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 210
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=212&_=1764680802889
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 212
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=212, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 212
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=190&_=1764680802888
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 190
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=190, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 190
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=189&_=1764680802901
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 189
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=189, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 189
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=192&_=1764680802902
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 192
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=192, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 192
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=209&_=1764680802903
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 209
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=209, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 209
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=188&_=1764680802904
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 188
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=188, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 188
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=208&_=1764680802914
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 208
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=208, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 208
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=188&_=1764680802925
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 188
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=188, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 188
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=212&_=1764680802932
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 212
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=212, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 212
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=191&_=1764680802934
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 191
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=191, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 191
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=213&_=1764680802934
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 213
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=213, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 213
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=211&_=1764680802933
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 211
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=211, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 211
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=190&_=1764680802943
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 190
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=190, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 190
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=193&_=1764680802945
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 193
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=193, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 193
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=210&_=1764680802949
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 210
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=210, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 210
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=189&_=1764680802951
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 189
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=189, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 189
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=209&_=1764680802951
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 209
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=209, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 209
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=189&_=1764680802965
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 189
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=189, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 189
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=188&_=1764680802970
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 188
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=188, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 188
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=212&_=1764680802971
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 212
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=212, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 212
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=213&_=1764680802966
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 213
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=213, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 213
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=192&_=1764680802968
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 192
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=192, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 192
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=191&_=1764680802975
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 191
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=191, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 191
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=194&_=1764680802986
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 194
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=194, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 194
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=211&_=1764680802987
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 211
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=211, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 211
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=190&_=1764680802988
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 190
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=190, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 190
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=210&_=1764680802989
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 210
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=210, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 210
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=190&_=1764680802997
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 190
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=190, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 190
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=189&_=1764680803001
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 189
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=189, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 189
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=213&_=1764680803002
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 213
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=213, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 213
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=188&_=1764680803004
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 188
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=188, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 188
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=193&_=1764680803005
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 193
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=193, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 193
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=192&_=1764680803007
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 192
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=192, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 192
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=195&_=1764680803023
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 195
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=195, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 195
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=212&_=1764680803025
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 212
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=212, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 212
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=191&_=1764680803025
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 191
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=191, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 191
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=211&_=1764680803026
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 211
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=211, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 211
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=191&_=1764680803034
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 191
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=191, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 191
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=190&_=1764680803035
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 190
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=190, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 190
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=188&_=1764680803041
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 188
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=188, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 188
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=189&_=1764680803042
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 189
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=189, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 189
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=194&_=1764680803043
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 194
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=194, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 194
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=193&_=1764680803044
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 193
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=193, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 193
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=196&_=1764680803055
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 196
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=196, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 196
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=213&_=1764680803056
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 213
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=213, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 213
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=192&_=1764680803060
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 192
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=192, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 192
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=212&_=1764680803061
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 212
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=212, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 212
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=192&_=1764680803065
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 192
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=192, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 192
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=191&_=1764680803066
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 191
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=191, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 191
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=189&_=1764680803073
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 189
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=189, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 189
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=190&_=1764680803074
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 190
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=190, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 190
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=195&_=1764680803078
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 195
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=195, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 195
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=194&_=1764680803079
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 194
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=194, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 194
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=197&_=1764680803086
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 197
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=197, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 197
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=188&_=1764680803092
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 188
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=188, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 188
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=193&_=1764680803093
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 193
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=193, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 193
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=213&_=1764680803094
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 213
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=213, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 213
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=193&_=1764680803098
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 193
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=193, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 193
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=192&_=1764680803101
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 192
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=192, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 192
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=190&_=1764680803111
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 190
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=190, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 190
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=196&_=1764680803112
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 196
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=196, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 196
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=195&_=1764680803113
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 195
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=195, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 195
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=191&_=1764680803112
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 191
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=191, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 191
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=189&_=1764680803124
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 189
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=189, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 189
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=194&_=1764680803125
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 194
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=194, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 194
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=194&_=1764680803129
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 194
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=194, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 194
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=188&_=1764680803128
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 188
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=188, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 188
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=193&_=1764680803132
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 193
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=193, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 193
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=191&_=1764680803142
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 191
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=191, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 191
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=197&_=1764680803144
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 197
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=197, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 197
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=196&_=1764680803144
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 196
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=196, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 196
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=192&_=1764680803147
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 192
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=192, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 192
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=190&_=1764680803156
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 190
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=190, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 190
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=195&_=1764680803157
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 195
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=195, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 195
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=195&_=1764680803160
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 195
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=195, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 195
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=189&_=1764680803161
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 189
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=189, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 189
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=194&_=1764680803163
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 194
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=194, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 194
+[2025-12-02 16:06:43] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=192&_=1764680803174
+[2025-12-02 16:06:43] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:43] [INFO] User 65 checking status of tournament: 192
+[2025-12-02 16:06:43] [INFO] 🔍 getTournamentStatus: tournament_id=192, user_id=65
+[2025-12-02 16:06:43] [INFO] ✅ getTournamentStatus success for tournament 192
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=197&_=1764680803184
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 197
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=197, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 197
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=193&_=1764680803184
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 193
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=193, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 193
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=191&_=1764680803187
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 191
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=191, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 191
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=196&_=1764680803189
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 196
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=196, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 196
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=196&_=1764680803193
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 196
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=196, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 196
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=190&_=1764680803194
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 190
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=190, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 190
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=193&_=1764680803205
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 193
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=193, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 193
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=195&_=1764680803201
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 195
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=195, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 195
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=192&_=1764680803228
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 192
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=192, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 192
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=194&_=1764680803227
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 194
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=194, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 194
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=197&_=1764680803233
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 197
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=197, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 197
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=197&_=1764680803235
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 197
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=197, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 197
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=191&_=1764680803236
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 191
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=191, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 191
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=194&_=1764680803243
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 194
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=194, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 194
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=196&_=1764680803246
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 196
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=196, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 196
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=193&_=1764680803259
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 193
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=193, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 193
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=195&_=1764680803263
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 195
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=195, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 195
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=192&_=1764680803279
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 192
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=192, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 192
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=195&_=1764680803280
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 195
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=195, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 195
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=197&_=1764680803281
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 197
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=197, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 197
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=194&_=1764680803290
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 194
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=194, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 194
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=196&_=1764680803293
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 196
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=196, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 196
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=193&_=1764680803311
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 193
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=193, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 193
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=196&_=1764680803313
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 196
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=196, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 196
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=195&_=1764680803323
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 195
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=195, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 195
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=197&_=1764680803324
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 197
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=197, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 197
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=194&_=1764680803343
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 194
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=194, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 194
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=197&_=1764680803344
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 197
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=197, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 197
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=196&_=1764680803356
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 196
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=196, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 196
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=195&_=1764680803376
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 195
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=195, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 195
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=197&_=1764680803386
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 197
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=197, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 197
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=196&_=1764680803407
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 196
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=196, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 196
+[2025-12-02 16:06:44] [INFO] Request started: GET /websocket_proxy.php?action=get_tournament_status&tournament_id=197&_=1764680803438
+[2025-12-02 16:06:44] [INFO] API request: get_tournament_status from user 65
+[2025-12-02 16:06:44] [INFO] User 65 checking status of tournament: 197
+[2025-12-02 16:06:44] [INFO] 🔍 getTournamentStatus: tournament_id=197, user_id=65
+[2025-12-02 16:06:44] [INFO] ✅ getTournamentStatus success for tournament 197
+[2025-12-02 16:07:12] 📤 Отправлен ping всем клиентам
+[2025-12-02 16:07:40] [INFO] Request started: GET /websocket_proxy.php?action=get_tournaments&heartbeat=1
+[2025-12-02 16:07:40] [INFO] API request: get_tournaments from user 65
+[2025-12-02 16:07:40] [INFO] Getting tournaments list for user: 65
+[2025-12-02 16:07:43] 📤 Отправлен ping всем клиентам
+[2025-12-02 16:08:14] 📤 Отправлен ping всем клиентам
+[2025-12-02 16:08:40] [INFO] Request started: GET /websocket_proxy.php?action=get_tournaments&heartbeat=1
+[2025-12-02 16:08:40] [INFO] API request: get_tournaments from user 65
+[2025-12-02 16:08:40] [INFO] Getting tournaments list for user: 65
+[2025-12-02 16:08:45] 📤 Отправлен ping всем клиентам
+[2025-12-02 16:09:17] 📤 Отправлен ping всем клиентам
+[2025-12-02 16:09:40] [INFO] Request started: GET /websocket_proxy.php?action=get_tournaments&heartbeat=1
+[2025-12-02 16:09:40] [INFO] API request: get_tournaments from user 65
+[2025-12-02 16:09:40] [INFO] Getting tournaments list for user: 65
+[2025-12-02 16:09:48] 📤 Отправлен ping всем клиентам
+[2025-12-02 16:10:19] 📤 Отправлен ping всем клиентам
+
