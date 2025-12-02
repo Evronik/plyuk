@@ -1,0 +1,32 @@
+ /* Предотвращение FOUC (Flash of Unstyled Content) */
+        .header {
+            transition: opacity 0.3s ease;
+        }
+        
+        .game-container {
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        
+        /* Скрываем элементы до полной загрузки */
+        body.loading .header,
+        body.loading .game-container {
+            visibility: hidden;
+        }
+        
+        body.loaded .header,
+        body.loaded .game-container {
+            opacity: 1;
+            visibility: visible;
+        }
+        
+        /* Гарантируем, что header всегда на месте */
+        .header {
+            will-change: transform;
+        }
+        
+        /* Предотвращаем смещение контента */
+        .game-container {
+            min-height: calc(100vh - 80px);
+            position: relative;
+        }

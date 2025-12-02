@@ -1,0 +1,1163 @@
+body {
+    background-color: #f5f5f5;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    transition: background-image 1.2s ease-in-out !important;
+}
+
+/* Анимация появления фона */
+@keyframes bgFadeIn {
+    from {
+        opacity: 0;
+        transform: scale(1.05);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+/* Контейнер для нижних контролов */
+.game-bottom-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    backdrop-filter: blur(10px);
+    order: 3;
+    margin-top: -20px;
+}
+
+.control-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.left-controls {
+    justify-content: flex-start;
+}
+
+.right-controls {
+    justify-content: flex-end;
+}
+
+/* Основной контейнер игры */
+.game-bottom-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1px;
+    padding: 20px 0;
+}
+
+/* Кнопки управления игрой */
+.controls {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    width: 100%;
+}
+
+/* Стили для управления фоном */
+.background-control {
+    position: relative;
+    display: inline-block;
+}
+
+.bg-change-btn {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border: none;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    margin-left: 3px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.bg-change-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+    background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+}
+
+.bg-change-btn:active {
+    transform: translateY(-1px);
+}
+
+/* Опции фона */
+.background-options {
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-10px);
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+    z-index: 1000;
+    min-width: 200px;
+}
+
+.background-control:hover .background-options {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(0);
+}
+
+.bg-thumbnails {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    margin-bottom: 12px;
+}
+
+.bg-thumb {
+    width: 50px;
+    height: 40px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-size: cover;
+    background-position: center;
+    border: 2px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.bg-thumb:hover {
+    transform: scale(1.1);
+    border-color: #667eea;
+}
+
+.bg-thumb.active {
+    border-color: #ffdd2d;
+    box-shadow: 0 0 10px rgba(255, 221, 45, 0.5);
+}
+
+/* Дополнительные контролы фона */
+.bg-controls {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    padding-top: 12px;
+}
+
+.bg-control-btn {
+    background: rgba(102, 126, 234, 0.1);
+    border: 1px solid rgba(102, 126, 234, 0.2);
+    border-radius: 8px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #667eea;
+    font-size: 12px;
+    transition: all 0.3s ease;
+}
+
+.bg-control-btn:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-2px);
+}
+
+/* Звуковой контрол */
+.sound-control.game-sound-control {
+    margin: 0;
+    padding: 5px;
+}
+
+/* Анимации */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Адаптивность для мобильных устройств */
+@media (max-width: 768px) {
+    body {
+        background-size: cover;
+        background-position: center center;
+    }
+    
+    .game-bottom-controls {
+        margin-top: 15px;
+        padding: 12px 8px;
+    }
+    
+    .bg-change-btn {
+        width: 45px;
+        height: 45px;
+        font-size: 18px;
+    }
+    
+    .control-group {
+        gap: 8px;
+    }
+    
+    .background-options {
+        min-width: 180px;
+        padding: 12px;
+    }
+    
+    .bg-thumbnails {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 6px;
+    }
+    
+    .bg-thumb {
+        width: 45px;
+        height: 35px;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        background-size: cover;
+        background-position: center center;
+    }
+    
+    .game-bottom-controls {
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 15px;
+        padding: 10px 5px;
+        gap: 0;
+    }
+    
+    .control-group {
+        width: auto;
+        justify-content: center;
+    }
+    
+    .left-controls, .right-controls {
+        justify-content: center;
+    }
+    
+    .bg-change-btn {
+        width: 44px;
+        height: 44px;
+        font-size: 18px;
+    }
+    
+    .background-options {
+        transform: translateX(-50%) translateY(-10px) scale(0.9);
+        transform-origin: bottom center;
+    }
+    
+    .background-control:hover .background-options {
+        transform: translateX(-50%) translateY(0) scale(1);
+    }
+}
+
+/* Для очень маленьких экранов */
+@media (max-width: 360px) {
+    .game-bottom-controls {
+        padding: 8px 3px;
+    }
+    
+    .bg-change-btn {
+        width: 42px;
+        height: 42px;
+        font-size: 16px;
+    }
+}
+
+/* Стили для таймера с обратным отсчетом */
+.timer-warning {
+    color: #FF9500 !important;
+    animation: pulse-warning 1s infinite;
+}
+
+.timer-critical {
+    color: #FF2D55 !important;
+    animation: pulse-critical 0.5s infinite;
+    font-weight: bold;
+}
+
+@keyframes pulse-warning {
+    0% { opacity: 1; }
+    50% { opacity: 0.7; }
+    100% { opacity: 1; }
+}
+
+@keyframes pulse-critical {
+    0% { opacity: 1; }
+    50% { opacity: 0.3; }
+    100% { opacity: 1; }
+}
+
+/* ОБЪЕДИНЕННЫЕ СТИЛИ ДЛЯ РЕЙТИНГА И ПОЛЬЗОВАТЕЛЯ */
+.user-info-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+/* Стили для бейджа пользователя */
+.bad {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.guest-badge {
+    color: white;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+/* Стили для рейтинга */
+.user-rating {
+    background: linear-gradient(137deg, #f1e8b9, #e3d9bd);
+    color: #6f2626;
+    padding: 5px 5px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    box-shadow: 0 2px 8px rgb(81 76 51 / 30%);
+    animation: pulse-gold 2s infinite;
+    white-space: nowrap;
+}
+
+/* Стили для статуса игрока */
+.user-status {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+
+.status-icon {
+    font-size: 14px;
+    animation: pulse-gold 2s infinite;
+}
+
+.status-name {
+    font-size: 14px;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+/* Адаптивность для статуса */
+@media (max-width: 768px) {
+    .user-status {
+        padding: 3px 3px;
+        gap: 4px;
+    }
+    
+    .status-icon {
+        font-size: 12px;
+    }
+    
+    .status-name {
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 480px) {
+    .user-status {
+        padding: 3px 3px;
+    }
+    
+    .status-name {
+        font-size: 10px;
+    }
+}
+
+@keyframes pulse-gold {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+}
+
+/* Анимация для очков */
+.points-animation {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10000;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.points-animation.show {
+    opacity: 1;
+}
+
+.points-popup {
+    background: linear-gradient(135deg, #FFD700, #FFA500);
+    color: #333;
+    padding: 20px 30px;
+    border-radius: 15px;
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    box-shadow: 0 10px 30px rgba(255, 215, 0, 0.5);
+    animation: bounce-in 0.5s ease;
+}
+
+@keyframes bounce-in {
+    0% { transform: scale(0.3); opacity: 0; }
+    50% { transform: scale(1.1); }
+    70% { transform: scale(0.9); }
+    100% { transform: scale(1); opacity: 1; }
+}
+
+/* Обновленные стили для таблицы лидеров */
+.leaderboard-table td:nth-child(3) {
+    color: #FFD700;
+    font-weight: bold;
+}
+
+.medal-gold { color: #FFD700; }
+.medal-silver { color: #C0C0C0; }
+.medal-bronze { color: #CD7F32; }
+
+/* Адаптивность для пользовательской информации */
+@media (max-width: 768px) {
+    .user-info-container {
+        margin: 0 10px;
+        gap: 6px;
+    }
+    
+    .guest-badge {
+        padding: 4px 12px;
+        font-size: 12px;
+    }
+    
+    .user-rating {
+        padding: 5px 5px;
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 480px) {
+    .user-info-container {
+        margin: 0 5px;
+    }
+    
+    .guest-badge {
+        padding: 3px 10px;
+        font-size: 11px;
+    }
+    
+    .user-rating {
+        padding: 5px 5px;
+        font-size: 16px;
+    }
+}
+/* Стили для отображения чатлов в достижениях */
+.achievement-points {
+    align-items: center;
+    padding: 2px 2px;
+    margin-top: -10px;
+}
+/* Стили для детализации чатлов в окне победы */
+.points-breakdown {
+    animation: slideDown 0.5s ease-out;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.breakdown-items {
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.breakdown-item {
+    transition: background-color 0.2s ease;
+}
+
+.breakdown-item:hover {
+    background-color: rgba(255, 215, 0, 0.05);
+    border-radius: 5px;
+}
+
+.breakdown-total {
+    font-size: 15px;
+    background: rgba(255, 215, 0, 0.1);
+    border-radius: 6px;
+    padding: 8px 12px !important;
+}
+
+/* Стили для модального окна инструкции */
+.instructions-content {
+    max-height: 60vh;
+    overflow-y: auto;
+    padding-right: 10px;
+}
+
+.instruction-section {
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.instruction-section:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
+.instruction-section h3 {
+    color: #3366FF;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 18px;
+}
+
+.instruction-section h4 {
+    margin: 4px 0 8px;
+    font-size: 16px;
+}
+
+.instruction-text {
+    line-height: 1.6;
+}
+
+.instruction-text ul {
+    margin: 10px 0;
+    padding-left: 20px;
+}
+
+.instruction-text li {
+    margin-bottom: 8px;
+}
+
+/* Стили для системы чатлов */
+.points-system {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.points-category {
+    background: rgba(255,255,255,0.5);
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid rgba(0,0,0,0.1);
+}
+
+.points-grid {
+    display: grid;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.points-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    border: 1px solid rgba(0,0,0,0.1);
+}
+
+.points-value {
+    font-weight: 600;
+    color: #FFD700;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.points-value::before {
+    content: '+';
+}
+
+/* Бейджи сложности */
+.difficulty-badge {
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.difficulty-badge.easy {
+    background: #34C759;
+    color: white;
+}
+
+.difficulty-badge.medium {
+    background: #FF9500;
+    color: white;
+}
+
+.difficulty-badge.hard {
+    background: #FF2D55;
+    color: white;
+}
+
+.time-badge, .quality-badge {
+    color: white;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/* Стили для достижений */
+.achievements-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.achievement-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    border: 1px solid rgba(0,0,0,0.1);
+}
+
+.achievement-name {
+    padding: 4px 8px;
+    color: white;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/* Стили для управления */
+.control-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 10px;
+    padding: 8px;
+    background: rgba(255,255,255,0.5);
+    border-radius: 6px;
+}
+
+.control-icon {
+    width: 30px;
+    height: 30px;
+    background: #3366FF;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+}
+
+.control-desc {
+    flex: 1;
+}
+
+/* Советы */
+.tip-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background: rgba(255,215,0,0.1);
+    border-radius: 6px;
+    border-left: 3px solid #FFD700;
+}
+
+.tip-icon {
+    font-size: 16px;
+    width: 24px;
+    text-align: center;
+}
+
+/* Кнопка инструкции */
+.instructions-btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+}
+
+/* Адаптивность */
+@media (max-width: 768px) {
+    .instructions-modal .modal-content {
+        margin: 20px;
+        max-height: 85vh;
+    }
+    
+    .points-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .instruction-section h3 {
+        font-size: 16px;
+    }
+    
+    .control-item {
+        flex-direction: column;
+        text-align: center;
+        gap: 8px;
+    }
+    
+    .control-icon {
+        align-self: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .instructions-content {
+        max-height: 55vh;
+    }
+    
+    .points-item, .achievement-item {
+        flex-direction: column;
+        gap: 5px;
+        text-align: center;
+    }
+}
+
+/* Стили для контейнера кнопок в header */
+.header-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+/* Контейнер для кнопки правил */
+.rules-button-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-left: 10px;
+}
+
+/* Стили для полноценной кнопки правил */
+.instructions-btn {
+    width: 100px;
+    height: 32px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    font-size: 12px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    background-color: var(--pluk-yellow);
+    border: none;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.8);
+}
+
+.instructions-btn:hover {
+    background-color: #E6C825;
+}
+.instructions-btn:active {
+    transform: translateY(0);
+}
+
+.instructions-btn i {
+    font-size: 12px;
+}
+
+/* Адаптивность для мобильных устройств */
+@media (max-width: 768px) {
+    .header-button {
+        flex-direction: row;
+        justify-content: center;
+        gap: 10px;
+    }
+    
+    .rules-button-container {
+        width: auto;
+    }
+    
+    .instructions-btn {
+        width: 100px;
+        height: 32px;
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 480px) {
+    .header-button {
+        flex-direction: column;
+    }
+    
+    .instructions-btn {
+        width: 90px;
+        height: 30px;
+        font-size: 12px;
+    }
+    
+    .instructions-btn i {
+        font-size: 12px;
+    }
+}
+
+/* Стили для групп таблицы лидеров */
+.group-header {
+    background: rgba(0, 0, 0, 0.05) !important;
+    border-bottom: 2px solid;
+}
+
+.group-header.gold-group {
+    border-color: #FFD700;
+    background: linear-gradient(135deg, rgba(255, 215, 0, 0.1), rgba(255, 215, 0, 0.05)) !important;
+}
+
+.group-header.silver-group {
+    border-color: #C0C0C0;
+    background: linear-gradient(135deg, rgba(192, 192, 192, 0.1), rgba(192, 192, 192, 0.05)) !important;
+}
+
+.group-header.bronze-group {
+    border-color: #CD7F32;
+    background: linear-gradient(135deg, rgba(205, 127, 50, 0.1), rgba(205, 127, 50, 0.05)) !important;
+}
+
+.group-header.other-group {
+    border-color: #667eea;
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(102, 126, 234, 0.05)) !important;
+}
+
+.group-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 1px 0;
+}
+
+.group-title .medal-gold { color: #FFD700; }
+.group-title .medal-silver { color: #C0C0C0; }
+.group-title .medal-bronze { color: #CD7F32; }
+
+/* Стили для строк в группах */
+.gold-group-row {
+    background: linear-gradient(135deg, rgba(255, 215, 0, 0.03), transparent);
+    border-left: 3px solid #FFD700;
+}
+
+.silver-group-row {
+    background: linear-gradient(135deg, rgba(192, 192, 192, 0.03), transparent);
+    border-left: 3px solid #C0C0C0;
+}
+
+.bronze-group-row {
+    background: linear-gradient(135deg, rgba(205, 127, 50, 0.03), transparent);
+    border-left: 3px solid #CD7F32;
+}
+
+.other-group-row {
+    border-left: 3px solid #e9ecef;
+}
+
+/* Подсветка текущего пользователя */
+.current-user {
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), transparent) !important;
+    font-weight: 600;
+}
+
+.current-user td {
+    border-bottom: 2px solid #667eea;
+}
+
+/* Анимации для групп */
+.group-header {
+    animation: slideInDown 0.5s ease-out;
+}
+
+.gold-group-row, .silver-group-row, .bronze-group-row {
+    animation: fadeInUp 0.5s ease-out;
+}
+
+@keyframes slideInDown {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Адаптивность для мобильных устройств */
+@media (max-width: 768px) {
+    .group-title {
+        font-size: 14px;
+        padding: 5px 0;
+    }
+    
+    .gold-group-row,
+    .silver-group-row,
+    .bronze-group-row,
+    .other-group-row {
+        border-left-width: 2px;
+    }
+}
+
+@media (max-width: 480px) {
+    .group-title {
+        font-size: 13px;
+        gap: 6px;
+    }
+}
+/* Стили для отображения рейтинга с медалями и номерами */
+.rank-with-medal {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    justify-content: center;
+}
+
+.rank-number {
+    font-weight: 600;
+    font-size: 14px;
+    min-width: 20px;
+}
+
+.leaderboard-rank {
+    text-align: center;
+    width: 80px;
+}
+
+/* Убедитесь, что иконки кубков хорошо выглядят */
+.medal-gold, .medal-silver, .medal-bronze {
+    font-size: 18px;
+}
+
+/* Для обычных номеров */
+.leaderboard-rank .rank-number {
+    font-size: 14px;
+    font-weight: 600;
+}
+.leaderboard-table th {
+    background: rgba(0, 0, 0, 0.2);
+}
+
+/* Стили для фиксированной шапки таблицы лидеров */
+
+.leaderboard-table thead {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    backdrop-filter: blur(10px);
+}
+
+.leaderboard-table th {
+    border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+    position: relative;
+}
+
+.leaderboard-table tbody tr {
+    transition: background-color 0.2s ease;
+}
+
+.leaderboard-table tbody tr:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+/* Стили для отдельного блока текущего пользователя */
+.current-user-section {
+    margin-top: 20px;
+    border-top: 2px solid #667eea;
+    padding-top: 1px;
+}
+
+.current-user-header {
+    background: rgba(102, 126, 234, 0.2) !important;
+    border-left: 4px solid #667eea;
+}
+
+.current-user-header .group-title {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+/* Улучшенные стили для скроллбара */
+.leaderboard-container::-webkit-scrollbar {
+    width: 6px;
+}
+
+.leaderboard-container::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 3px;
+}
+
+.leaderboard-container::-webkit-scrollbar-thumb {
+    background: rgba(102, 126, 234, 0.6);
+    border-radius: 3px;
+}
+
+.leaderboard-container::-webkit-scrollbar-thumb:hover {
+    background: rgba(102, 126, 234, 0.8);
+}
+
+/* Стили для фиксированной таблицы лидеров */
+.leaderboard-container {
+    max-height: 400px;
+    overflow-y: auto;
+    position: relative;
+    margin-bottom: 0;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+}
+
+.leaderboard-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 0;
+}
+
+/* Фиксированная шапка таблицы */
+.leaderboard-header-fixed {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: rgba(0, 0, 0, 0.95);
+    backdrop-filter: blur(15px);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+.leaderboard-header-fixed th {
+    padding: 15px 8px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 14px;
+    position: sticky;
+    top: 0;
+    background: inherit;
+}
+
+/* Фиксированная секция поиска */
+.leaderboard-search-fixed {
+    position: sticky;
+    top: 0;
+    z-index: 30;
+    background: rgba(0, 0, 0, 0.98);
+    backdrop-filter: blur(20px);
+    padding: 15px 0;
+    margin-bottom: 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Фиксированная секция текущего пользователя */
+.current-user-section-fixed {
+    position: sticky;
+    bottom: 0;
+    z-index: 20;
+    background: rgba(0, 0, 0, 0.95);
+    backdrop-filter: blur(15px);
+    border-top: 2px solid #667eea;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.current-user-section-fixed .leaderboard-table {
+    margin-bottom: 0;
+}
+
+/* Основной контейнер для всей таблицы лидеров */
+.leaderboard-main-container {
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    max-height: 70vh;
+}
+
+.leaderboard-scrollable-area {
+    flex: 1;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Улучшенные стили для скроллбара */
+.leaderboard-container::-webkit-scrollbar {
+    width: 8px;
+}
+
+.leaderboard-container::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 4px;
+}
+
+.leaderboard-container::-webkit-scrollbar-thumb {
+    background: rgba(102, 126, 234, 0.6);
+    border-radius: 4px;
+}
+
+.leaderboard-container::-webkit-scrollbar-thumb:hover {
+    background: rgba(102, 126, 234, 0.8);
+}
+
+/* Адаптивность */
+@media (max-width: 768px) {
+    .leaderboard-main-container {
+        height: 400px;
+        max-height: 60vh;
+    }
+    
+    .leaderboard-header-fixed th {
+        padding: 12px 4px;
+        font-size: 12px;
+    }
+    
+    .leaderboard-search-fixed {
+        padding: 10px 0;
+    }
+}
